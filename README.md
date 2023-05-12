@@ -11,4 +11,4 @@ Simulator can calculate the resulting motion, forces based on the laws of physic
 
 code snippets or commands goes here
 ```
-`#ffffff`
+`hsl(212, 92%, 45%)`
