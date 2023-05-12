@@ -11,4 +11,4 @@ Simulator can calculate the resulting motion, forces based on the laws of physic
 
 code snippets or commands goes here
 ```
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+`#ffffff`
