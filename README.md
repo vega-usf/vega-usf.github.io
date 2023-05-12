@@ -8,4 +8,7 @@
 Can Interact with other objects in the virtual environment.
 Users can control the arm by sending commands.
 Simulator can calculate the resulting motion, forces based on the laws of physics
+
+code snippets or commands goes here
 ```
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
